@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://wallpaperset.com/w/full/b/e/4/462751.jpg");
+}
+
+*{
+    border: 0;
+
+    font-family: sans-serif;
+}
+
+.list{
+    width: 50%;
+    float: right;
+    margin-top: -55px;
+    
+}
+
+.anc{
+    padding: 5%;
+    color: black;
+    font-size: 20px;
+    
+}
+
+.img{
+    width: 150px;
+    
+}
+
+.sale{
+    width: 100vw;
+    height: 70vh;
+}
+
+.ex{
+    color: goldenrod;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.text{
+    color: rgb(220, 155, 57);
+    margin-left: 22px;
+}
+
+.foot{
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+
+
+.col1{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.col2{
+   width: 50%;
+   float: right;
+   text-align: center;
+
+}

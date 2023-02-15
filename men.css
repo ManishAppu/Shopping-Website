@@ -1,0 +1,91 @@
+*{
+    border: 0;
+    
+    font-family: sans-serif;
+}
+
+div{
+    padding: 0;
+}
+
+.head{
+    color: goldenrod;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.carousel-item{
+   
+    cursor: pointer;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    color: red;
+    padding: 20px;
+    height: 70vh;
+
+  }
+
+  .res{
+    background-color: navy;
+    text-align: center;
+    color: gainsboro;
+    
+  }
+
+  .pcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .pcard1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+
+.carousel-inner > .carousel-item > img{
+    height: 70vh;
+
+}
+
+.col1{
+  width: 50%;
+  float: left;
+  text-align: center;
+  
+}
+
+.col2{
+ width: 50%;
+ float: right;
+ text-align: center;
+ height: 36vh;
+
+}
